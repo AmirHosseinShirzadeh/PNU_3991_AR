@@ -12,13 +12,13 @@
 ## ترم مهر ماه 1399
 -------------------
 ## فعالیت 
-+ [پایان نامه روش پژوهش مهندسی نرم افزار دانشگاه اصفهان]  (https://upinja.com/do.php?filename=%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D9%86%D8%A7%D9%85%D9%87_b7b33.pdf)
++ [پایان نامه روش پژوهش مهندسی نرم افزار دانشگاه اصفهان](https://upinja.com/do.php?filename=%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D9%86%D8%A7%D9%85%D9%87_b7b33.pdf)
  
-+ [لاتک از صفحه 109-111] (https://www.uplooder.net/files/d76f67efe2516c1a164a5dce458a25e6/E-search-1.pdf.html)
++ [لاتک از صفحه 109-111](https://www.uplooder.net/files/d76f67efe2516c1a164a5dce458a25e6/E-search-1.pdf.html)
 
 ------------------
 ## ارزشیابی 
-+ [فرم ارزشیابی] (https://www.uplooder.net/files/59372e9933f37a02da52efb69f047c26/XX-ResearchAndPresentationMethods-CheckList-AR-3991-copy.pdf.html)
++ [فرم ارزشیابی](https://www.uplooder.net/files/59372e9933f37a02da52efb69f047c26/XX-ResearchAndPresentationMethods-CheckList-AR-3991-copy.pdf.html)
 
 ------------------
 
